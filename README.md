@@ -39,11 +39,11 @@ This repository contains the the course work and supporting material for a high 
 
 # 2. Sequence: 
 
-## Introduction
+## 2.1 Introduction
 * Origins of Algebra
 * Applications of Algebra
 
-## Standards
+## 2.2 Standards
 ### Number and Quantity
 * The Real Number System
 * Quantities
@@ -60,7 +60,7 @@ This repository contains the the course work and supporting material for a high 
 * Interpreting Categorical and Quantitative Data
 * Making Inferences and Justifying Conslusions
 
-## Prerequisitives
+## 2.3 Prerequisitives
 * Aritmetic(Addition, Subtraction, Multiplication, and Division), order of opreations
 * Associative, Communitive, and Distributive Properties; Combing Like Terms
 * Inequalities
