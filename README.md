@@ -8,7 +8,7 @@ This repository contains the the course work and supporting material for a high 
 * Interpret the structure of expressions
 * Write Expressions in equivalent forms to solve problems
 
-##A rithmetic with Polynomials and Rational Functions
+## Arithmetic with Polynomials and Rational Functions
 
 * Perform arithmetic operations on polynomials
 * Understand the relationship between zeros and factors of polynomials
@@ -26,3 +26,13 @@ This repository contains the the course work and supporting material for a high 
 * Solve systems of equations
 * Represent and solve equations and inequalities graphically
 
+## Mathematical Practices
+
+* Make sense of problems and persevere in solving them.
+* Reason abstractly and quantitatively.
+* Construct viable arguments and critique the reasoning of others.
+* Model with mathematics.
+* Use appropriate tools strategically.
+* Attend to precision.
+* Look for and make use of structure.
+* Look for and express regularity in repeated reasoning.
