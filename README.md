@@ -43,9 +43,27 @@ This repository contains the the course work and supporting material for a high 
 * Origins of Algebra
 * Applications of Algebra
 
+## Standards
+### Number and Quantity
+* The Real Number System
+* Quantities
+### Algebra
+* Seeing Structures in Expressions
+* Arithmetic w/Polynomials and Rational expressions
+* Creating Equations
+* Reasoning with Equations and Inequalities
+### Functions
+* Interpreting Functions
+* Building Functions
+* Linear, Quadradic, and Exponential Functions
+### Statistics and Probability
+* Interpreting Categorical and Quantitative Data
+* Making Inferences and Justifying Conslusions
+
 ## Prerequisitives
 * Aritmetic(Addition, Subtraction, Multiplication, and Division), order of opreations
-* Associative, Communitive, and Distributive Properties
+* Associative, Communitive, and Distributive Properties; Combing Like Terms
+* Inequalities
 * Signed Numbers
 * Fractions & Decimals and how they are related
 * Ratio and Proportions
@@ -54,10 +72,12 @@ This repository contains the the course work and supporting material for a high 
 * Exponents / Exponential Notation
 * Basic Mathematical Vocabulary: Perimeter, Area, Circumference
 * Integers, The number line and integer operations, concept of point
+* Patterns & Sequences
 * Vector and Scalars
 * Set Theory
 * Translation of word problems into algebraic expression
 * Fluency in units of measure
+* Graphing, Coordinate Plane
 
 
 ## Section One
@@ -66,21 +86,26 @@ This repository contains the the course work and supporting material for a high 
 * One-Variable Linear Inequalities
 * Two-Variable Linear Equations
 * Two-Variable Linear Inequalities
-* Introduction to Functions
+* Introduction to Functions / Linear Functions
 * Special Functions 
 * Radical Expressions
 * Exponential Equations
 * Exponential Functions
 * Sequences & Modeling with Functions
+* Rational Expressions and Functions
+* Radical Expressions and Equations
+* Radical Expressions and Functions
+* Data Analysis and Probability
 
 ## Section Two
 * Graphing Systems of Equations
 * Solving Systems of Equations Algebraically
-* Polynomials
+* Polynomials and Factoring
 * Factoring and Roots
 * Quadratic Equations
 * Quadratic Functions
 * Linear-Quadratic Systems
 * Univariate Data
 * Bivariate Data
+
 
