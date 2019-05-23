@@ -38,6 +38,19 @@ This repository contains the the course work and supporting material for a high 
 * Look for and express regularity in repeated reasoning.
 
 # 2. Sequence: 
+
+## Introduction
+* Origins of Algebra
+* Applications of Algebra
+
+## Prerequisitives
+* Aritmetic
+* Signed Numbers
+* Fractions
+* Factors
+* Exponents / Exponential Notation
+
+
 ## Section One
 * Expressions and Problem Solving
 * One-Variable Linear Equations
