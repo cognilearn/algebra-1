@@ -2,7 +2,7 @@
 
 This repository contains the the course work and supporting material for a high school level Algebra 1 course. 
 
-# Material Covered
+# Material Covered: Common 
 
 ## Sturcture in Expressions
 * Interpret the structure of expressions
@@ -36,3 +36,29 @@ This repository contains the the course work and supporting material for a high 
 * Attend to precision.
 * Look for and make use of structure.
 * Look for and express regularity in repeated reasoning.
+
+# Sequence: 
+## Section One
+* Expressions and Problem Solving
+* One-Variable Linear Equations
+* One-Variable Linear Inequalities
+* Two-Variable Linear Equations
+* Two-Variable Linear Inequalities
+* Introduction to Functions
+* Special Functions 
+* Radical Expressions
+* Exponential Equations
+* Exponential Functions
+* Sequences & Modeling with Functions
+
+## Section Two
+* Graphing Systems of Equations
+* Solving Systems of Equations Algebraically
+* Polynomials
+* Factoring and Roots
+* Quadratic Equations
+* Quadratic Functions
+* Linear-Quadratic Systems
+* Univariate Data
+* Bivariate Data
+
