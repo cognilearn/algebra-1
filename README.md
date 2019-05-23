@@ -44,11 +44,20 @@ This repository contains the the course work and supporting material for a high 
 * Applications of Algebra
 
 ## Prerequisitives
-* Aritmetic
+* Aritmetic(Addition, Subtraction, Multiplication, and Division), order of opreations
+* Associative, Communitive, and Distributive Properties
 * Signed Numbers
-* Fractions
+* Fractions & Decimals and how they are related
+* Ratio and Proportions
+* Probability
 * Factors
 * Exponents / Exponential Notation
+* Basic Mathematical Vocabulary: Perimeter, Area, Circumference
+* Integers, The number line and integer operations, concept of point
+* Vector and Scalars
+* Set Theory
+* Translation of word problems into algebraic expression
+* Fluency in units of measure
 
 
 ## Section One
