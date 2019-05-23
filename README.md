@@ -2,48 +2,8 @@
 
 This repository contains the the course work and supporting material for a high school level Algebra 1 course. 
 
-# 1. Material Covered: Common 
 
-## Sturcture in Expressions
-* Interpret the structure of expressions
-* Write Expressions in equivalent forms to solve problems
-
-## Arithmetic with Polynomials and Rational Functions
-
-* Perform arithmetic operations on polynomials
-* Understand the relationship between zeros and factors of polynomials
-* Use polynomial identities to solve problems
-* Rewrite rational functions
-
-## Creating Equations
-
-* Create equations that describe numbers or relationships
-
-## Reasoning with Equations and Inequalities
-
-* Understand solving equations as a process of reasoning and explain the reasoning
-* Solve equations and inequalities in one variable
-* Solve systems of equations
-* Represent and solve equations and inequalities graphically
-
-## Mathematical Practices
-
-* Make sense of problems and persevere in solving them.
-* Reason abstractly and quantitatively.
-* Construct viable arguments and critique the reasoning of others.
-* Model with mathematics.
-* Use appropriate tools strategically.
-* Attend to precision.
-* Look for and make use of structure.
-* Look for and express regularity in repeated reasoning.
-
-# 2. Sequence: 
-
-## 2.1 Introduction
-* Origins of Algebra
-* Applications of Algebra
-
-## 2.2 Standards
+## 1.0 Standards
 ### Number and Quantity
 * The Real Number System
 * Quantities
@@ -60,7 +20,7 @@ This repository contains the the course work and supporting material for a high 
 * Interpreting Categorical and Quantitative Data
 * Making Inferences and Justifying Conslusions
 
-## 2.3 Prerequisitives
+## 2.0 Prerequisitives
 * Aritmetic(Addition, Subtraction, Multiplication, and Division), order of opreations
 * Associative, Communitive, and Distributive Properties; Combing Like Terms
 * Inequalities
@@ -79,8 +39,13 @@ This repository contains the the course work and supporting material for a high 
 * Fluency in units of measure
 * Graphing, Coordinate Plane
 
+## 3.0 Course Material
 
-## Section One
+### 3.1 Introduction
+* Origins of Algebra
+* Applications of Algebra
+
+### 3.2 Section One
 * Expressions and Problem Solving
 * One-Variable Linear Equations
 * One-Variable Linear Inequalities
@@ -97,7 +62,7 @@ This repository contains the the course work and supporting material for a high 
 * Radical Expressions and Functions
 * Data Analysis and Probability
 
-## Section Two
+### 3.3 Section Two
 * Graphing Systems of Equations
 * Solving Systems of Equations Algebraically
 * Polynomials and Factoring
